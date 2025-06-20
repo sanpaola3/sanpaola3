@@ -1,3 +1,4 @@
+![image_alt](https://github.com/sanpaola3/sanpaola3/blob/591eb292e8b5555d12bdc401c6d78efe84540fae/github-header-image%20(1).png)
 
 # Hi there 👋, My name is Paola Sánchez
 📊 Data-driven professional with a background in Innovation 💡 and Business Management 💼, holding a Master’s degree 🎓 in Quality and Productivity and a Green Belt certification ✅ in Six Sigma.
